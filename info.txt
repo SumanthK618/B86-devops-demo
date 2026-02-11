@@ -3,3 +3,5 @@ Tools used are:
 a. Git
 b. Sonarqube
 c.python
+d.java
+e.ansible
