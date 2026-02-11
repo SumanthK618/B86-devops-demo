@@ -1,1 +1,5 @@
 Welcome to Devops course.........
+Tools used are:
+a. Git
+b. Sonarqube
+c.python
